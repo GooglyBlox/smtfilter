@@ -1,0 +1,35 @@
+{
+    "manifest_version": 3,
+    "name": "r/SomebodyMakeThis Post Filter",
+    "version": "1.0",
+    "description": "Hides posts marked as 'I made this!' without an r/SomebodyMakeThis URL in the description.",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.reddit.com/r/SomebodyMakeThis/"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "permissions": [
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "32": "icons/icon32.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
