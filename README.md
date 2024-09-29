@@ -1,6 +1,12 @@
 # r/SomebodyMakeThis Post Filter
 
+**⚠️ Deprecated: This extension is now archived and no longer maintained.**
+
 A Chrome extension developed in response to [this Reddit request](https://www.reddit.com/r/SomebodyMakeThis/comments/1dpisc7/a_browser_extension_for_somebodymakethis/). It hides posts marked as "I made this!" without an r/SomebodyMakeThis URL in the description, preventing you from seeing posts from people promoting a product they have created rather than answering someone else's "SMT" request.
+
+## Deprecation Notice
+
+As of September 28, 2024, the moderators of r/SomebodyMakeThis have updated the subreddit rules to prevent low-effort promotion posts that this extension was designed to filter out. With these rule changes in place, the functionality provided by this extension is no longer necessary. Consequently, this project has been **archived** and is **deprecated**. It will no longer receive updates or support.
 
 ## Installation
 
