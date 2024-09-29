@@ -6,7 +6,7 @@ A Chrome extension developed in response to [this Reddit request](https://www.re
 
 ## Deprecation Notice
 
-As of September 28, 2024, the moderators of r/SomebodyMakeThis have updated the subreddit rules to prevent low-effort promotion posts that this extension was designed to filter out. With these rule changes in place, the functionality provided by this extension is no longer necessary. Consequently, this project has been **archived** and is **deprecated**. It will no longer receive updates or support.
+As of September 28, 2024, the moderators of r/SomebodyMakeThis have [updated the subreddit rules](https://www.reddit.com/r/SomebodyMakeThis/comments/1fru0gg/rule_changes_beginning_october_1_2024/) to prevent low-effort promotion posts that this extension was designed to filter out. With these rule changes in place, the functionality provided by this extension is no longer necessary. Consequently, this project has been **archived** and is **deprecated**. It will no longer receive updates or support.
 
 ## Installation
 
